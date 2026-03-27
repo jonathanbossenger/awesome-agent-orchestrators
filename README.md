@@ -96,6 +96,7 @@ Systems for coordinating multiple specialized agents working together.
 - [paperclip](https://github.com/paperclipai/paperclip) - Orchestration for zero-human companies.
 - [skillfold](https://github.com/byronxlg/skillfold) - Configuration language and compiler for multi-agent AI pipelines. Compiles YAML config into agent skills for Claude Code, Cursor, Codex, Copilot, Gemini CLI, and Windsurf.
 - [swarm-protocol](https://github.com/phuryn/swarm-protocol) - Headless coordination layer exposed as MCP server: claim work, detect file conflicts, heartbeat, and hand off tasks across agent sessions.
+- [wit](https://github.com/amaar-mc/wit) - Coordination protocol that locks specific functions (not files) via Tree-sitter AST parsing. Agents declare intents, acquire symbol level locks, and get conflict warnings before writing code.
 
 ## Autonomous Loop Runners
 

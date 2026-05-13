@@ -24,6 +24,7 @@ Tools for running multiple coding agents simultaneously on different tasks.
 - [cmux](https://github.com/manaflow-ai/cmux) - Open-source platform for running multiple coding agents in parallel.
 - [CodexMonitor](https://github.com/Dimillian/CodexMonitor) - Orchestrate multiple Codex agents across local workspaces.
 - [collaborator](https://github.com/collaborator-ai/collab-public) - A place to create with agents.
+- [concilium](https://github.com/jonathanbossenger/concilium) - Local multi-agent orchestration dashboard with GitHub support. Configure your CLI AI agents (Claude Code, Codex, Gemini, Copilot), fire off tasks, watch live output, run terminal commands, and interact with GitHub issues, all via a web UI. Easy to start, stop, and restart.
 - [constellagent](https://github.com/owengretzinger/constellagent) - macOS app for running multiple AI agents with their own terminal, editor, and git worktree.
 - [crystal](https://github.com/stravu/crystal) - Run multiple Codex and Claude Code sessions in parallel git worktrees.
 - [dmux](https://github.com/standardagents/dmux) - Parallel agents with tmux and worktrees.

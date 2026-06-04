@@ -13,6 +13,7 @@ Tools for running multiple coding agents simultaneously on different tasks.
 - [agent-orchestrator](https://github.com/ComposioHQ/agent-orchestrator) - Agentic orchestrator for parallel coding agents.
 - [agenttier](https://github.com/agenttier/agenttier) - Kubernetes-native runtime that runs each AI coding agent in its own Pod + PVC sandbox, with default-deny NetworkPolicy and a streaming SSE invoke API. Run multiple agents in parallel by creating multiple Sandbox CRs.
 - [ai-maestro](https://github.com/23blocks-OS/ai-maestro) - Dashboard for orchestrating Claude, Aider, and Cursor agents across machines.
+- [AGX](https://github.com/ramarlina/agx) - Local-first agent orchestrator with parallel execution, wake-work-sleep checkpointing, and human-in-the-loop gates.
 - [aizen](https://github.com/vivy-company/aizen) - macOS workspace for managing git worktrees with integrated agent sessions.
 - [amux](https://github.com/andyrewlee/amux) - TUI for easily running parallel coding agents.
 - [Aperant](https://github.com/AndyMik90/Aperant) - Autonomous multi-session AI coding.
